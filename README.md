@@ -1,0 +1,2 @@
+# CTF-Challenge
+Simple challenge.
