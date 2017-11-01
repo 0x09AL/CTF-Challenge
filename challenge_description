@@ -1,0 +1,7 @@
+Our hacking team managed to get access to some classified information of EvilCorp but the data was corrupted and we lost the access.
+Now we need to make sure that we can access the backup tapes when the Stage 2 comes. The binary is the server application that runs on the backup tapes.
+To access the interface we will need the key.
+
+We managed to get some part of the source code and the binary. Your duty is to find the key by gluing pieces together so we can procceed with the Stage 2.
+
+Elliot
